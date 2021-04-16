@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hbailey-github
+- 👋 Hi, I’m Hiroe Bailey
 - 👀 I’m interested in ... NY1page.com https://ny1page.com
 - 🌱 I’m currently learning ... github and MS Azure
 - 💞️ I’m looking to collaborate on ... my site update NY1page.com
